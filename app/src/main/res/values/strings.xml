@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pertemuan_ActionBar</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="deskripsi_makanan">MAKANAN INTERNASIONAL</string>
+        <string name="details">Menyediakan makanan Internasional, Asia, Indonesia, Italia, Timur Tengah, Swedia, Liguria, Italia Utara, Eropa</string>
+        <string name="keterangan">Bahan yang kita gunakan adalah bahan bahan yang berkualitas tinggi bahkan ada yang khusus di import dari negara asalnya</string>
+        <string name="price">HARGA</string>
+        <string name="Harga_makanan">Start from 200.000</string>
+    <string name="Pesan">Silahkan pesan melalui button dibawah</string>
+    <string name="Reservasi">Silahkan reservasi tempat melalui button dibawah</string>
+</resources>
